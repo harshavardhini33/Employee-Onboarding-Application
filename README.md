@@ -1,4 +1,4 @@
-#EXP 24: EMPLOYEE ONBOARDING APPLICATION
+# EXP 24: EMPLOYEE ONBOARDING APPLICATION
 ## AIM:
 To create an empolyee onboarding application using React,SpringBoot and SQL.
 ## ALGORITHM:
